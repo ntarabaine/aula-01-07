@@ -1,0 +1,74 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "John Doe",
+      "idade": 30,
+      "email": "john@example.com",
+      "hobbies": ["Desenhar", "Jogar"]
+    },
+    {
+      "id": 2,
+      "nome": "Jane Doe",
+      "idade": 28,
+      "email": "jane@example.com",
+      "hobbies": ["Ler", "Dançar"]
+    },
+    {
+      "id": 3,
+      "nome": "Carlos Silva",
+      "idade": 35,
+      "email": "carlos.silva@example.com",
+      "hobbies": ["Cozinhar", "Futebol"]
+    },
+    {
+      "id": 4,
+      "nome": "Mariana Oliveira",
+      "idade": 26,
+      "email": "mariana.oliveira@example.com",
+      "hobbies": ["Viajar", "Fotografia"]
+    },
+    {
+      "id": 5,
+      "nome": "Lucas Pereira",
+      "idade": 22,
+      "email": "lucas.pereira@example.com",
+      "hobbies": ["Música", "Corrida"]
+    },
+    {
+      "id": 6,
+      "nome": "Ana Costa",
+      "idade": 29,
+      "email": "ana.costa@example.com",
+      "hobbies": ["Pintura", "Yoga"]
+    },
+    {
+      "id": 7,
+      "nome": "Roberto Souza",
+      "idade": 33,
+      "email": "roberto.souza@example.com",
+      "hobbies": ["Pesca", "Leitura"]
+    },
+    {
+      "id": 8,
+      "nome": "Clara Mendes",
+      "idade": 27,
+      "email": "clara.mendes@example.com",
+      "hobbies": ["Jardinagem", "Ciclismo"]
+    },
+    {
+      "id": 9,
+      "nome": "Fernando Lima",
+      "idade": 31,
+      "email": "fernando.lima@example.com",
+      "hobbies": ["Gastronomia", "Caminhadas"]
+    },
+    {
+      "id": 10,
+      "nome": "Gabriela Rocha",
+      "idade": 24,
+      "email": "gabriela.rocha@example.com",
+      "hobbies": ["Escrever", "Meditação"]
+    }
+  ]
+}
